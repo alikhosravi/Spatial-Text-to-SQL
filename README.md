@@ -16,18 +16,18 @@ The complexity of Structured Query Language (SQL) and the specialized nature of 
 
 To address this, we propose a novel multi-agent framework designed to accurately translate natural language questions into spatial SQL queries. Our framework integrates several innovative components:
 
-Knowledge base with programmatic schema profiling and semantic enrichment
+📚 Knowledge base with programmatic schema profiling and semantic enrichment
 
-Collaborative multi-agent pipeline with specialized roles:
+⚙️ Collaborative multi-agent pipeline with specialized roles:
 
-Entity extraction agent
+🤖 Entity extraction agent
 
-Metadata retrieval agent
+🤖 Metadata retrieval agent
 
-Query logic formulation agent
+🤖 Query logic formulation agent
 
-SQL generation agent
+🤖 SQL generation agent
 
-Review agent for programmatic and semantic validation
+🤖 Review agent for programmatic and semantic validation
 
 We evaluated the system using both the KaggleDBQA benchmark (non-spatial) and a new spatial benchmark we developed, which includes diverse geometry types, spatial predicates, and multiple query complexity levels.
