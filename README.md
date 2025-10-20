@@ -4,7 +4,8 @@ Making Spatial Analysis Accessible Through Collaborative AI Agents
 Overview
 
 This repository accompanies the research paper:
-“From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL”
+> **“From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL”**
+
 
 The project addresses a key challenge in spatial data analysis: the difficulty non-experts face in writing complex SQL and PostGIS queries. While Large Language Models (LLMs) can translate text to SQL, they often fall short on spatial reasoning and syntactic precision.
 To overcome these issues, this work introduces a multi-agent system designed to collaboratively and accurately translate natural language questions into executable spatial SQL queries.
